@@ -1,7 +1,7 @@
 module App = {
   [@react.component]
   let make = () => {
-    <h1> {React.string("Welcome to my app!")} </h1>;
+    <div> <Todo /> </div>;
   };
 };
 

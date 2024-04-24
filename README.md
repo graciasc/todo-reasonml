@@ -29,9 +29,9 @@ of each command in the `scriptsComments` field of the `package.json` file. Here
 are a few of the most useful ones:
 
 - `npm run init`: set up opam local switch and download OCaml, Melange and
-JavaScript dependencies
+  JavaScript dependencies
 - `npm run install:npm-opam`: install JavaScript, OCaml, and Melange
   dependencies
 - `npm run watch`: watch the filesystem and have Melange rebuild on every
-change
+  change
 - `npm run serve`: serve the application with a local HTTP server
